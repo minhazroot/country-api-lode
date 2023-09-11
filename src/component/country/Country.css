@@ -3,4 +3,18 @@
     padding: 20px;
     margin: 15px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_style {
+    height: 200px;
+    width: 300px;
+}
+
+.visited {
+    background-color: red;
+    color: white;
 }
